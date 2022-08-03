@@ -1,6 +1,9 @@
-[{
-    "huhuu":"nkbklgnjkfhjlöhjlö",
-     "huhuu":"nkbklgnjkfhjlöhjlö",
-     "huhuu":"nkbklgnjkfhjlöhjlö",
-     "huhuu":"nkbklgnjkfhjlöhjlö"
-}]
+{
+  "posts": [
+    { "id": 1, "title": "learn json-server" },
+
+    { "id": 1, "title": "learn json-server" },
+
+    { "id": 1, "title": "learn json-server" }
+  ]
+}
