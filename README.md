@@ -1,4 +1,2 @@
 # restApi
-
-
-https://github.com/Heudiini/restApi/main/db.json 
+https://raw.githubusercontent.com/Heudiini/restApi/main/db.json
